@@ -9,5 +9,5 @@
   
 ***
 **其余的已经消失的脚本在上方自行下载。下方链接仅供测试！**
-* 423Down - 跳过中转[安装](https://raw.githubusercontent.com/Coconutat/browser-script-backup-Self-use/main/423down_passby_GoPHP.js)  
-*  zd423|吾爱|果核|卡饭 精简去推广——Cocoontat修改版[安装](https://raw.githubusercontent.com/Coconutat/browser-script-backup-Self-use/main/zd423%E5%90%BE%E7%88%B1%E6%9E%9C%E6%A0%B8%E5%8D%A1%E9%A5%AD%20%E7%B2%BE%E7%AE%80%E5%8E%BB%E6%8E%A8%E5%B9%BF_modify.js)
+* 423Down - 跳过中转[[安装]](https://raw.githubusercontent.com/Coconutat/browser-script-backup-Self-use/main/423down_passby_GoPHP.js)  
+*  zd423|吾爱|果核|卡饭 精简去推广——Cocoontat修改版[[安装]](https://raw.githubusercontent.com/Coconutat/browser-script-backup-Self-use/main/zd423%E5%90%BE%E7%88%B1%E6%9E%9C%E6%A0%B8%E5%8D%A1%E9%A5%AD%20%E7%B2%BE%E7%AE%80%E5%8E%BB%E6%8E%A8%E5%B9%BF_modify.js)
