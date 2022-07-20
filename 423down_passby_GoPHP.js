@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name                423Down - Skip transfer
 // @name:zh-CN          423Down - 跳过中转
-// @namespace           https://greasyfork.org/zh-CN/users/193133-pana
-// @homepage            https://www.sailboatweb.com
+// @namespace           https://github.com/Coconutat/browser-script-backup-Self-use
+// @homepage            https://github.com/Coconutat/browser-script-backup-Self-use
 // @version             1.1.1
 // @description         Bypass the transfer of go.php
 // @description:zh-CN   绕过 go.php 的中转
