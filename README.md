@@ -6,9 +6,9 @@
 * [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)  
 * [Anti-Adblock Killer | Reek](https://github.com/reek/anti-adblock-killer) 
 * [网页限制解除(改)](https://greasyfork.org/zh-CN/scripts/28497-%E7%BD%91%E9%A1%B5%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4-%E6%94%B9)   
-*[琉神转](https://sleazyfork.org/scripts/23316)  
-*[大人的Greasyfork](https://greasyfork.org/scripts/23840)  
-*[秒传链接提取](https://greasyfork.org/zh-CN/scripts/424574)
+* [琉神转](https://sleazyfork.org/scripts/23316)  
+* [大人的Greasyfork](https://greasyfork.org/scripts/23840)  
+* [秒传链接提取](https://greasyfork.org/zh-CN/scripts/424574)
   
 ***
 **其余的已经消失的脚本在上方自行下载。下方链接仅供测试！**
