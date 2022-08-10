@@ -25,13 +25,14 @@
 
     //去除zd置顶推广内容
     //加入‘推荐’字符，去除新的广告 2022.07
+    //加入‘限时’字符，去除新的广告 2022.08
     if (url.indexOf('423down') != -1) {
         document.querySelector("#hasfixed > div.wrapper > div.sidebar > div:nth-child(2)").remove();
         let ul = document.querySelector("#hasfixed > div.wrapper > div.content-wrap > div > ul").children;
         for (let i = ul.length - 1; i > -1; i--) {
             let a = ul[i].querySelectorAll('a');
             for (let j = a.length - 1; j > -1; j--) {
-                if (a[j].innerText.indexOf('默认分类') != -1||a[j].innerText.indexOf('优惠') != -1 ||a[j].innerText.indexOf('推荐') != -1) {
+                if (a[j].innerText.indexOf('默认分类') != -1||a[j].innerText.indexOf('优惠') != -1 ||a[j].innerText.indexOf('推荐') != -1 || a[j].innerText.indexOf('限时') != -1) {
                     ul[i].remove();
                     break;
                 }
