@@ -2,10 +2,11 @@
 // @name         zd423(423down)移动版精简去推广
 // @namespace    https://github.com/Coconutat/browser-script-backup-Self-use
 // @version      0.1.alpha
-// @description  页面精简去推广内容只留主内容，卡饭自动签到等功能，殁漂遥去推广请看介绍，不在此脚本
+// @description  zd423(423down)移动版精简去推广
 // @author       by Cocoontat
 // @match        https://www.423down.com/*
 // @namespace    https://raw.githubusercontent.com/Coconutat/browser-script-backup-Self-use/main/423down_mobile_ad_remove.user.js
+// @icon         https://www.423down.com/wp-content/themes/D7/img/favicon.ico
 // @grant        none
 // ==/UserScript==
 
