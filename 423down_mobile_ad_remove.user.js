@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         zd423(423down)移动版精简去推广
-// @namespace    https://github.com/Coconutat/browser-script-backup-Self-use
+// @namespace    https://github.com/Coconutat/browser-script-backup-Self-use/423down_mobile_ad_remove.user.js
 // @version      0.1.alpha
 // @description  zd423(423down)移动版精简去推广
 // @author       by Cocoontat
 // @match        https://www.423down.com/*
-// @namespace    https://raw.githubusercontent.com/Coconutat/browser-script-backup-Self-use/main/423down_mobile_ad_remove.user.js
+// @updateURL    https://raw.githubusercontent.com/Coconutat/browser-script-backup-Self-use/main/423down_mobile_ad_remove.user.js
 // @icon         https://www.423down.com/wp-content/themes/D7/img/favicon.ico
 // @grant        none
 // ==/UserScript==
