@@ -17,4 +17,4 @@
   
 ***  
 **个人写的油猴脚本**
-* zd423(423down)移动版精简去推广[安装](https://raw.githubusercontent.com/Coconutat/browser-script-backup-Self-use/main/423down_mobile_ad_remove.user.js)  
+* zd423(423down)移动版精简去推广 [安装](https://raw.githubusercontent.com/Coconutat/browser-script-backup-Self-use/main/423down_mobile_ad_remove.user.js)  
