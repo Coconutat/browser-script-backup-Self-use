@@ -28,13 +28,14 @@
     //加入‘推荐’字符，去除新的广告 2022.07
     //加入‘限时’字符，去除新的广告 2022.08
     //加入‘纯净尊享’，‘免费纯净’字符，‘免费的资源搜索神器’字符，去除新的广告 2022.10
+    //加入‘纯净尊享’，‘免费尊享版’字符，去除新的广告 2022.11
     if (url.indexOf('423down') != -1) {
         document.querySelector("#hasfixed > div.wrapper > div.sidebar > div:nth-child(2)").remove();
         let ul = document.querySelector("#hasfixed > div.wrapper > div.content-wrap > div > ul").children;
         for (let i = ul.length - 1; i > -1; i--) {
             let a = ul[i].querySelectorAll('a');
             for (let j = a.length - 1; j > -1; j--) {
-                if (a[j].innerText.indexOf('默认分类') != -1||a[j].innerText.indexOf('优惠') != -1 ||a[j].innerText.indexOf('推荐') != -1 || a[j].innerText.indexOf('限时') != -1 || a[j].innerText.indexOf('纯净尊享') != -1 || a[j].innerText.indexOf('免费纯净') != -1 || a[j].innerText.indexOf('免费的资源搜索神器') != -1) {
+                if (a[j].innerText.indexOf('默认分类') != -1||a[j].innerText.indexOf('优惠') != -1 ||a[j].innerText.indexOf('推荐') != -1 || a[j].innerText.indexOf('限时') != -1 || a[j].innerText.indexOf('纯净尊享') != -1 || a[j].innerText.indexOf('免费纯净') != -1 || a[j].innerText.indexOf('免费的资源搜索神器') != -1 || a[j].innerText.indexOf('免费尊享') != -1) {
                     ul[i].remove();
                     break;
                 }
