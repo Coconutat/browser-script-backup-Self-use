@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         zd423|吾爱|果核|卡饭 精简去推广——Cocoontat修改版
 // @namespace    https://github.com/Coconutat/browser-script-backup-Self-use/zd423吾爱果核卡饭 精简去推广_modify.js
-// @version      0.9.8.12.5
+// @version      0.9.8.12.6
 // @description  页面精简去推广内容只留主内容，卡饭自动签到等功能，殁漂遥去推广请看介绍，不在此脚本
 // @author       Aerozb，修改 by Cocoontat
 // @match        http://bbs.zhiyoo.net/search.php?mod=forum&adv=yes
