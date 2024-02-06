@@ -9,6 +9,7 @@
 * [琉神转](https://sleazyfork.org/scripts/23316)  
 * [大人的Greasyfork](https://greasyfork.org/scripts/23840)  
 * [秒传链接提取](https://greasyfork.org/zh-CN/scripts/424574)
+* [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)
   
 ***
 **其余的已经消失的脚本在上方自行下载。下方链接仅供测试！**
