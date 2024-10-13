@@ -10,7 +10,8 @@
 * [大人的Greasyfork](https://greasyfork.org/scripts/23840)  
 * [秒传链接提取](https://greasyfork.org/zh-CN/scripts/424574)
 * [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)
-* [CSDNGreener](https://greasyfork.org/zh-CN/scripts/378351)  
+* [CSDNGreener](https://greasyfork.org/zh-CN/scripts/378351)
+* [（改）网盘直链下载助手](https://github.com/hmjz100/Online-disk-direct-link-download-assistant/)  
   
 ***
 **其余的已经消失的脚本在上方自行下载。下方链接仅供测试！**
