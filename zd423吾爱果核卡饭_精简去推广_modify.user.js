@@ -36,7 +36,7 @@
         for (let i = ul.length - 1; i > -1; i--) {
             let a = ul[i].querySelectorAll('a');
             for (let j = a.length - 1; j > -1; j--) {
-                if (a[j].innerText.indexOf('默认分类') != -1 || a[j].innerText.indexOf('优惠') != -1 || a[j].innerText.indexOf('免费') != -1 || a[j].innerText.indexOf('无广告') != -1 || a[j].innerText.indexOf('推荐') != -1 || a[j].innerText.indexOf('限时') != -1 || a[j].innerText.indexOf('纯净尊享') != -1 || a[j].innerText.indexOf('免费纯净') != -1 || a[j].innerText.indexOf('免费的资源搜索神器') != -1 || a[j].innerText.indexOf('免费尊享') != -1 || a[j].innerText.indexOf('产品推广') != -1) {
+                if (a[j].innerText.indexOf('默认分类') != -1 || a[j].innerText.indexOf('优惠') != -1 || a[j].innerText.indexOf('莆田') != -1 || a[j].innerText.indexOf('免费') != -1 || a[j].innerText.indexOf('无广告') != -1 || a[j].innerText.indexOf('推荐') != -1 || a[j].innerText.indexOf('限时') != -1 || a[j].innerText.indexOf('纯净尊享') != -1 || a[j].innerText.indexOf('免费纯净') != -1 || a[j].innerText.indexOf('免费的资源搜索神器') != -1 || a[j].innerText.indexOf('免费尊享') != -1 || a[j].innerText.indexOf('产品推广') != -1) {
                     ul[i].remove();
                     break;
                 }
