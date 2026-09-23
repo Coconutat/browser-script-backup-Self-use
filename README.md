@@ -23,4 +23,5 @@
 **个人写的油猴脚本**
 * zd423(423down)移动版精简去推广 [安装](https://raw.githubusercontent.com/Coconutat/browser-script-backup-Self-use/main/423down_mobile_ad_remove.user.js)  
 * Apple Music 专辑封面获取 [安装](https://raw.githubusercontent.com/Coconutat/browser-script-backup-Self-use/main/Apple_Music_Album_Art_Grabber.user.js)  
-* 423down广告移除重构优化版 [安装](https://raw.githubusercontent.com/Coconutat/browser-script-backup-Self-use/main/423down_ad_remove_go_bypass.user.js)  
+* 423down广告移除重构优化版 [安装](https://raw.githubusercontent.com/Coconutat/browser-script-backup-Self-use/main/423down_ad_remove_go_bypass.user.js)
+* SteamDB DLC Extractor [安装](https://raw.githubusercontent.com/Coconutat/browser-script-backup-Self-use/main/SteamDB_DLC_Extractor.user.js) 
